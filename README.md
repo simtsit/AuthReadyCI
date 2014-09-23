@@ -1,0 +1,4 @@
+AuthReadyCI
+===========
+
+Authentication Ready CodeIgniter
