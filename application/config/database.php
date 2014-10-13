@@ -50,9 +50,9 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'geckocustomers';
+$db['default']['username'] = 'DATABASE_USER';
+$db['default']['password'] = 'DATABASE_PASSWORDR';
+$db['default']['database'] = 'DATABASE_NAME';
 
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
